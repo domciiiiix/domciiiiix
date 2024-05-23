@@ -5,7 +5,7 @@ getdicts lang2 country language
 
 	lang2    - the two letter abbreviation of the language ISO 3166-1 ALPHA-2
 	country  - the two letter abbreviation of the country ISO 639
-	language - the full name of the language
+	language - polish
 
 	ex, getdicts en US english
 EOF
